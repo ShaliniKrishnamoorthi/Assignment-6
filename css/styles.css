@@ -1,0 +1,27 @@
+/*
+Assignment 6 : Ajax and JSON
+Author : Shalini Krishnamoorthi
+File Name : styles.css
+Version 1 : 02/25/2015
+*/
+
+.search-bar {
+	width: 800px;
+	margin: 35px auto;
+}
+
+.search-bar input {
+	text-align: center;
+	width: 800px;
+	height: 75px;
+	font-size: 40px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.results{
+	margin: 250px auto;
+	width: 800px;
+	height: 800px;
+}
